@@ -93,7 +93,7 @@
                     </div>
                     <div class="kartu-tutor">
                         <img src="foto/6.jpg"/>
-                        <p>Leonardo Decepticon, S.Aktr., MSP></p>
+                        <p>Leonardo Decepticon, S.Aktr., MSP.</p>
                     </div>
                     <div class="kartu-tutor">
                         <img src="foto/7.jpg"/>
